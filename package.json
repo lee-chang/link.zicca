@@ -1,0 +1,23 @@
+{
+  "name": "link.zicca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vchangcar/link.zicca.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vchangcar/link.zicca/issues"
+  },
+  "homepage": "https://github.com/vchangcar/link.zicca#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
